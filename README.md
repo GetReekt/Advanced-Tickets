@@ -1,4 +1,4 @@
-# Advanced-Tickets
+# Advanced-Tickets Altis Life
 
 # Allows Police to ticket players with prices based on crimes, this uses the crimes config inside the config_master.hpp.
 
